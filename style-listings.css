@@ -469,15 +469,15 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
  	height:auto;
 	padding:0;
 	background:#ffffff;
-	border-top:1px solid #eaeaea;
-	border-bottom:1px solid #eaeaea;
+	border-top:1px solid #0a7eff<!--#eaeaea-->;
+	border-bottom:1px solid #0a7eff<!--#eaeaea-->;
 }
 
 .head-menu-container
 {
 	width:980px;
 	margin:0 auto;
-	background:#f9f9f9; /* please change top header background color form here */
+	background:#ff8b0a<!--#f9f9f9-->; /* please change top header background color form here */
 }
 
 /*******************************contianer start*******************************/
